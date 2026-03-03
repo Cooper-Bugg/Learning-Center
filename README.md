@@ -13,7 +13,7 @@ Curated resources for learning programming, systems and problem solving.
 - [LeetCode](https://leetcode.com/)
 - [NeetCode](https://neetcode.io/)
 
-## Codecrafters / Build Your Own
+## [Codecrafters](http://codecrafter.io/) / Build Your Own
 
 This section is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
 
