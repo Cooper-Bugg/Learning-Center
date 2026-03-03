@@ -1,8 +1,21 @@
-[![Banner](https://codecrafters.io/images/new-ccgithub-banner.png)](https://codecrafters.io/github-banner)
 
-## Build your own &lt;insert-technology-here&gt;
+# Learning Center I
 
-This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
+Curated resources for learning programming, systems and problem solving.
+
+## Core Learning Paths
+
+- [roadmap.sh](https://roadmap.sh/)
+- [Linux Journey (LabEx)](https://labex.io/linuxjourney)
+- [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)
+- [Learn C++](https://www.learncpp.com/)
+- [Exercism](https://exercism.org/dashboard)
+- [LeetCode](https://leetcode.com/)
+- [NeetCode](https://neetcode.io/)
+
+## Codecrafters / Build Your Own
+
+This section is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
 
 > *What I cannot create, I do not understand — Richard Feynman.*
 
