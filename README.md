@@ -3,6 +3,96 @@
 
 Curated resources for learning programming, systems and problem solving.
 
+## Related projects
+
+- [LunarVim](https://github.com/Lunarvim) — Community-driven Neovim configuration.
+
+## Alternative repository hosting platforms
+
+These platforms host code, learning projects, and open documentation similar to GitHub:
+
+- [GitLab](https://gitlab.com) — public and private git hosting with CI/CD features similar to GitHub.
+- [Bitbucket](https://bitbucket.org) — supports public and private git repositories, integration with Atlassian tools.
+- [Codeberg](https://codeberg.org) — community-driven git service for open source projects.
+- [Gitea](https://gitea.io) — lightweight open-source git server you can self-host.
+- [OneDev](https://onedev.io) — self-hosted git platform with issue tracking and CI.
+
+## General educational resource repositories
+
+Structured collections of learning materials and resources:
+
+- [LearnAnything.xyz](https://learnanything.xyz) — graphical interface linking learning pathways across many topics.
+- [OER Commons](https://www.oercommons.org) — open library of educational materials and curriculum content.
+- Sarvwigyan — open-source educational site for science and technology topics (GitHub-hosted content).
+
+## Learning-focused GitHub repositories (examples)
+
+Well-known curated lists and educational repositories you can reference or fork:
+
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) — large indexed list of free programming and CS books.
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) — structured guidance on system design concepts.
+- [developer-roadmap](https://github.com/kamranahmed/developer-roadmap) — structured learning pathways for web development skills.
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) — guides to build foundational technologies from scratch.
+
+## Other types of project and learning platforms
+
+Interactive or beginner-friendly environments for coding and sharing:
+
+- [CodePen](https://codepen.io) — browser-based coding playground for front-end.
+- [Glitch](https://glitch.com) — collaborative environment for building web apps.
+- [Scratch](https://scratch.mit.edu) — beginner project platform for block-based coding.
+
+## Recommended books
+
+Selected books and study aids:
+
+- Computer Systems: A Programmer's Perspective, 3rd Edition
+- C++ Software Design: Design Principles and Patterns for High-Quality Software
+- C++ Concurrency in Action: Practical Multithreading
+- Programming Abstraction in C++ by Eric Roberts
+- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+- Elements of Programming Interviews: The Insiders' Guide
+- Daily C++ Interview: Prepare yourself for your next interview one question a day
+
+## Additional curated resources
+
+### C++ & tooling
+
+- [LearnCpp](https://www.learncpp.com) — extensive free C++ tutorials and reference.
+- [CppReference](https://en.cppreference.com) — language and standard library reference.
+- [Compiler Explorer (Godbolt)](https://godbolt.org) — online compiler explorer and assembly visualization.
+
+### Operating systems & systems programming
+
+- [Operating Systems: Three Easy Pieces (OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/) — clear, practical OS textbook.
+- [Computer Systems: A Programmer’s Perspective (CS:APP)](https://csapp.cs.cmu.edu) — deep systems treatment.
+- [MIT 6.S081 Operating Systems](https://pdos.csail.mit.edu/6.S081/) — course materials and lectures.
+- [Stanford CS140e](https://cs140e.sergio.bz) — practical OS course notes and labs.
+- [The Linux Programming Interface (TLPI)](https://man7.org/tlpi/) — comprehensive Linux API reference.
+
+### Concurrency, talks & channels
+
+- [C++ Concurrency in Action (Manning)](https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition) — practical multithreading in C++.
+- [CppCon YouTube Channel](https://www.youtube.com/user/CppCon) — recorded C++ talks and tutorials.
+
+### Algorithms
+
+- [MIT 6.046 Algorithms (OCW)](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) — lectures and problem sets.
+- [Introduction to Algorithms (CLRS)](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) — canonical algorithms textbook.
+- [Algorithm Design Manual (Skiena)](https://www.algorist.com) — practical algorithm design and catalog.
+
+### Mathematics & proofs
+
+- [MIT OpenCourseWare — Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) — Gilbert Strang's course materials.
+- [Paul's Online Math Notes](https://tutorial.math.lamar.edu) — concise math tutorials for calculus and algebra.
+- [How to Prove It (book)](https://www.cambridge.org/us/academic/subjects/mathematics/logic-categories-and-sets/how-prove-it-structured-approach) — introductions to mathematical proofs.
+- [Understanding Analysis](https://link.springer.com/book/10.1007/978-1-4939-2712-8) — rigorous real analysis text.
+
+### System design & data systems
+
+- [System Design Primer](https://github.com/donnemartin/system-design-primer) — practical and interview-focused system design guide.
+- [Designing Data-Intensive Applications](https://dataintensive.net) — principles for reliable, scalable systems and data infrastructure.
+
 ## Core Learning Paths
 
 - [roadmap.sh](https://roadmap.sh/)
@@ -13,7 +103,7 @@ Curated resources for learning programming, systems and problem solving.
 - [LeetCode](https://leetcode.com/)
 - [NeetCode](https://neetcode.io/)
 
-## [Codecrafters](http://codecrafter.io/) / Build Your Own
+## [Codecrafters](https://codecrafters.io/) / Build Your Own
 
 This section is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
 
